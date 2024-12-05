@@ -8,3 +8,17 @@ Repositorio orientado al aprendizaje de "Flusk"
 
 # Levantar servidor
 python ./app/app.py
+
+# Conectar a server php
+-- pip install flask-mysqldb
+
+¿Tienes mac … ? 💀💀💀💀💀
+{
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+    escribe los comandos que te digan al final, los míos fueron 3
+
+    brew install mysql pkg-config
+
+    pip install flask-mysqldb
+}
